@@ -1,0 +1,7 @@
+{
+   "ENV":{
+      "prod":{}
+   },
+   "phoneNumber":"+380991364340",
+   "test_url":"https://httpbin.org/"
+}
